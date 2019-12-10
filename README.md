@@ -5,7 +5,7 @@
 * Added [react-native-svg](https://github.com/react-native-community/react-native-svg) library
 * Added Dan Abramov's [UseInterval Hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 
-###Preview
+### Preview
 
 ![Countdown example](https://raw.githubusercontent.com/milansusnjar/countdownSvg/master/animation.gif "Countdown example")
 
