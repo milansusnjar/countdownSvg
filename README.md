@@ -6,7 +6,8 @@
 * Added Dan Abramov's [UseInterval Hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 
 ###Preview
-![Countdown example](https://github.com/milansusnjar/countdownSvg/master/animation.gif "Countdown example")
+
+![Countdown example](https://raw.githubusercontent.com/milansusnjar/countdownSvg/master/animation.gif "Countdown example")
 
 
 Timer will countdown from 10 and decrease the value every second.
